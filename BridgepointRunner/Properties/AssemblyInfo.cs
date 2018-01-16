@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BridgepointRunner")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("BridgePoint")]
+[assembly: AssemblyDescription("Wrapper for Bridgepoint Launcher batch file, enabling it to be added to quick launch bar")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hymans Robertson LLP")]
-[assembly: AssemblyProduct("BridgepointRunner")]
+[assembly: AssemblyProduct("BridgePoint")]
 [assembly: AssemblyCopyright("Copyright © Hymans Robertson LLP 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
